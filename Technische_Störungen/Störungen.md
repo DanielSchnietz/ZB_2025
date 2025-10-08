@@ -18,6 +18,6 @@
 
 # Spitzensignal
 - Erloschen
-- - Dunkelheit oder unsichtiges Wetter **und** Auftrag im Streckenbuch
-  - Sofort
-  - Auf dem nächsten Bahnhof in allen anderen Fällen
+  - Dunkelheit oder unsichtiges Wetter **und** Auftrag im Streckenbuch
+    - Sofort
+    - Auf dem nächsten Bahnhof in allen anderen Fällen
