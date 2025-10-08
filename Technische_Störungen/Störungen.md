@@ -21,3 +21,7 @@
   - Dunkelheit oder unsichtiges Wetter **und** Auftrag im Streckenbuch
     - Sofort
     - Auf dem nächsten Bahnhof in allen anderen Fällen
+### Unvollständig 
+- Dunkelheit oder unsichtiges Wetter **und** Auftrag im Streckenbuch
+  - Auf dem nächsten Bahnhof
+  - Auf dem nächsten Haltbahnhof in allen anderen Fällen
