@@ -1,0 +1,11 @@
+# Aufnahme LZB
+- Zug sofort anhalten
+- Fdl Standort mitteilen
+- LZB Störschalter EIN
+- - Blauer PZB Melder blinkt/leuchtet
+  - Kein Mitwirken Fdl
+  - Nächste 2000m max. 40 km/h
+- - Weißer Befehl 40 blinkt.
+  - Zwingend Befehl 10 und 10.1
+  - Nächste 2000m max. 40 km/h
+  - **Nach** Befehl Befehlstaste ca 30s drücken bis Befehl 40 Leuchtet.
