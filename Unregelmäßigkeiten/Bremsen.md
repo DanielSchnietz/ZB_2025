@@ -1,7 +1,7 @@
 # Grundsatz
 - Alle brauchbaren Bremsen im Zug müssen eingeschaltet sein
 - Alle Bremsen müssen an die Hauptluftleitung angeschlossen sein
-- Das erste und das letzte Fahrzeug muss in der Regel eine wirkende Druckluftbremse haben ( https://github.com/DanielSchnietz/ZB_2025/blob/main/Unregelm%C3%A4%C3%9Figkeiten/Bremsen.md#handbremsen-besetzen )
+- Das erste und das letzte Fahrzeug muss in der Regel eine wirkende Druckluftbremse haben [Handbremsen besetzen](#handbremsenbesetzen)
 
 # Ausfall Bremse
 - Gestörte Bremsen sind auszuschalten
