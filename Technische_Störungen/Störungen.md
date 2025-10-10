@@ -25,3 +25,6 @@
 - Dunkelheit oder unsichtiges Wetter **und** Auftrag im Streckenbuch
   - Auf dem nächsten Bahnhof
   - Auf dem nächsten Haltbahnhof in allen anderen Fällen
+
+# Schlusssignal
+- Kann der Tf, nachdem der Zug vorbereitet ist, das Schlusssignal nicht vervollständigen, darf er bis zum Endbahnhof weiterfahren
