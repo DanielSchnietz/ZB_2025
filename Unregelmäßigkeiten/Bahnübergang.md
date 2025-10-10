@@ -6,6 +6,10 @@
 
 # Bahnübergang sichern
 ## Technisch sichern
+-Bei technischer Sicherung gilt muss der Tf den BÜ technisch sichern
+ ### Bedienen der HET
+ - Das erste Fahrzeug muss vor dem Standort der HET halten
+ - Der Tf muss die am befahrenen Gleis, vom Zug aus gesehen, vor dem BÜ befindliche HET bedienen
 ## Technisch sichern nicht möglich
 ## Geschlossene Schranken
 
