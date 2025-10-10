@@ -13,4 +13,5 @@
 # Handbremsen besetzen
 - Ist die Druckluftbremse im letzten Fahrzeug unwirksam geworden, ist die Handbremse zu besetzen
 - Kann keine Handbremse besetzt werden, ist die Zugbildung zu ändern oder das Fahrzeug darf nicht mit Reisenden besetzt sein
+- Ist die Druckluftbremse am ersten Fahrzeug unbrauchbar geworden, muss die Handbremse besetzt sein, oder das Fahrzeug darf nicht mit Reisenden besetzt sein
 
