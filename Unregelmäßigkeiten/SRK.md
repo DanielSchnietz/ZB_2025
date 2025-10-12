@@ -14,5 +14,9 @@
   - Fdl über Notruf ( hier wird noch angenommen, dass noch kein Brand bestätigt ist )
 ## Anhalten
 - Bei Notbremse
+  - Überbrückung ausschließlich in NBÜ Abschnitten, Tunneln und Stellen, die die Rettung erschweren
+  - In allen anderen Fällen muss sofort gehalten werden
+  - Bei Anfahrt am Bahnsteig ebenfalls sofort, auch dann, wenn nicht mehr alle Türen am Bahnsteig stehen
 - Bei BMA
+   - Schnellstmöglich, jedoch wenn möglich am Bahnsteig.
 ## Abweheren
