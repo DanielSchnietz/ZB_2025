@@ -28,3 +28,11 @@
 
 # Schlusssignal
 - Kann der Tf, nachdem der Zug vorbereitet ist, das Schlusssignal nicht vervollständigen, darf er bis zum Endbahnhof weiterfahren
+
+# Sandstreuvorrichtung 
+- Ist eines der in Fahrtrichtung sandenden Rohre nicht funktionsfähig, gilt die Anlage als gestört
+- Ist die Sandstreuvorrichtung gestört, oder kein Sand vorhanden, ist wie folgt zu verfahren:
+  - Leitstelle informieren
+  - Störung melden
+  - Bei der Fahrt mit der nach Fahrplan zulässigen Geschwindigkeit muss bei Einfahrt in den Bremswegabschnitt muss die Bremswirkung bereits deutlich spürbar sein. Als Richtwert gilt eine Geschwindigkeitsreduzierung um **mindestens** 10 Km/h
+  - Dieser Richtwert gilt ebenfalls bei extrem schlechtem Reibwert/schlechten Witterungsbedingungen
