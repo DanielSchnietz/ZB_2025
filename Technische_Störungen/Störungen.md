@@ -42,3 +42,12 @@
 - Ist die NBÜ gestört, muss geklärt werden, ob der Zug Streckenabschnitte befährt, auf denen eine NBÜ gefordert ist. Auch Tunnel mit einer Länge über 1000 Meter fallen unter diese Regelung.
 - Trifft einer der oben genannten Fälle zu, ist je 4 Wagen, bzw. einer Durchgangslänge bis zu 110 Metern jeweils 1 SRK Mitarbeiter notwendig
 - Kann kein SRK Mitarbeiter gestellt werden, darf ein oben genannter Abschnitt nicht mit Fahrgästen befahren werden.
+
+# Radreifen verdreht
+- Sind Radreifen verdreht ( Gelbmarkierung verdreht ), ist wie folgt zu verfahren:
+  - Auftraggebende Stelle verständigen
+  - Weiterfahrt nur im Zugverband, bei ausgeschalteter Bremse, höchstens mit Schrittgeschwindigkeit
+- Stellt die Werkstatt fest, dass sich die Verbindung gesetzt hat, bringt sie eine Rotmarkierung an
+- Rotmarkierung muss einmal am Tag kontrolliert werden, i.d.R. im Abschlussdienst
+- Ist die Rotmarkierung verdreht, ist das Fzg nicht lauffähig
+- Vor der Überführung eines Fahrzeuges mit verdrehten Gelb- oder Rotmarkierungen muss eine vom EVU beauftragte Person die betroffenen Räder untersucht haben
