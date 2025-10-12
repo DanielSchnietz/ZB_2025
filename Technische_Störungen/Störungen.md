@@ -51,3 +51,7 @@
 - Rotmarkierung muss einmal am Tag kontrolliert werden, i.d.R. im Abschlussdienst
 - Ist die Rotmarkierung verdreht, ist das Fzg nicht lauffähig
 - Vor der Überführung eines Fahrzeuges mit verdrehten Gelb- oder Rotmarkierungen muss eine vom EVU beauftragte Person die betroffenen Räder untersucht haben
+
+# Überführung mit verdrehten Reifen
+# Fahrt nach Störungrn fortsetzen
+
