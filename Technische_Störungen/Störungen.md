@@ -36,3 +36,8 @@
   - Störung melden
   - Bei der Fahrt mit der nach Fahrplan zulässigen Geschwindigkeit muss bei Einfahrt in den Bremswegabschnitt muss die Bremswirkung bereits deutlich spürbar sein. Als Richtwert gilt eine Geschwindigkeitsreduzierung um **mindestens** 10 Km/h
   - Dieser Richtwert gilt ebenfalls bei extrem schlechtem Reibwert/schlechten Witterungsbedingungen
+
+# NBÜ oder Sprechverbindung
+- Ist die NBÜ gestört, muss geklärt werden, ob der Zug Streckenabschnitte befährt, auf denen eine NBÜ gefordert ist. Auch Tunnel mit einer Länge über 1000 Meter fallen unter diese Regelung.
+- Trifft einer der oben genannten Fälle zu, ist je 4 Wagen, bzw. einer Durchgangslänge bis zu 110 Metern jeweils 1 SRK Mitarbeiter notwendig
+- Kann kein SRK Mitarbeiter gestellt werden, darf ein oben genannter Abschnitt nicht mit Fahrgästen befahren werden.
