@@ -9,7 +9,7 @@
     - Hauptsignal, das Kennlicht zeigt
     - Sperrsignal, das Sh1 zeigt
     - Orientierungszeichen PZB 2000 Hz
-  - Unzulässige Vorbeifahrt an ETCS Halt [Über alleinstehende Ne14 rangieren]()
+  - Unzulässige Vorbeifahrt an ETCS Halt [Über alleinstehende Ne14 rangieren](https://github.com/DanielSchnietz/ZB_2025/blob/main/Rangieren/Zustimmung.md#alleinstehende-ne14)
     
 ## Inhalt der Meldung
 - Wo ist die PZB Zwangsbremsung eingetreten
