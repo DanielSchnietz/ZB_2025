@@ -16,17 +16,17 @@
 - Sanden bis zum Stillstand. **Auch wenn nicht ausgeschlossen werden kann, dass eine automatische Sandstreuvorrichtung gesandet hat** [Sanden melden]()
 
 ## Zustimmung zur Weiterfahrt
-### (1)
+(1)
 - Befehl 2 bei PZB Zwangsbremsung an
   - Hauptsignal
   - Sperrsignal
   - Ne1
   - Orientierungszeichen PZB 2000 Hz
   - Nicht eindeutig zuzuordnen an welcher Stelle
-### (2)
+(2)
 - PZB Bü
   - Fdl erteilt Weisung zur Sicherung des Bü. Danach darf mit mündlicher Zustimmung weitergefahren werden
-### (3)
+(3)
 - Jede andere Stelle nach mündlicher Zustimmung
 
 # Verständigung nicht möglich 
