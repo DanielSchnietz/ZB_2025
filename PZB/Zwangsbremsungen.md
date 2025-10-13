@@ -1,5 +1,5 @@
 # Verhalten bei Zwangsbremsungen
-- Eine PZB-Zwangsbremsung ist sofort mit einer Schnellbremsung zu unterstützen. **Verfügt das Fahrzeug nicht über eine automatische Sandstreueinrichtung, ist zusätzlich zu sanden** [Verhalten bei Gefahr]()
+- Eine PZB-Zwangsbremsung ist sofort mit einer Schnellbremsung zu unterstützen. **Verfügt das Fahrzeug nicht über eine automatische Sandstreueinrichtung, ist zusätzlich zu sanden** [Verhalten bei Gefahr](https://github.com/DanielSchnietz/ZB_2025/blob/main/Grundlagen.md#verhalten-bei-gefahr)
 - Nach dem Anhalten muss der Tf sofort den Fdl verständigen
 - **Dies gilt zusätzlich in folgenden Fällen, unabhängig von einer Zwangsbremsung:**
   - Unzulässige Vorbeifahrt an einem Halt zeigenden Signal
