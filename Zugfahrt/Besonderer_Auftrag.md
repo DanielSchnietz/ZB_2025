@@ -15,5 +15,6 @@
 - Wenn ein Zug an einem Halt zeigenden oder gestörten Lichthauptsignal
   - mit dunklem Vorsignalschirm
   - dass "Halt erwarten" zeigen kann
-  vorbeifährt, muss der Tf bis zum erkennen der Stellung des nächsten Hauptsignals, maximal 2000 Meter, mit höchstens 40 Km/h fahren
+  vorbeifährt
+- muss der Tf bis zum erkennen der Stellung des nächsten Hauptsignals, maximal 2000 Meter, mit höchstens 40 Km/h fahren
   
