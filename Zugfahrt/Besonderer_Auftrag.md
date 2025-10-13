@@ -10,4 +10,10 @@
 
 # Geschwindigkeit 
 - Die maximal zulässige Geschwindigkeit für eine Zugfahrt mit besonderem Auftrag beträgt 40 Km/h
+
+# Fehlende Vorsignalinformation
+- Wenn ein Zug an einem Halt zeigenden oder gestörten Lichthauptsignal
+  - mit dunklem Vorsignalschirm
+  - dass "Halt erwarten" zeigen kann
+  vorbeifährt, muss der Tf bis zum erkennen der Stellung des nächsten Hauptsignals, maximal 2000 Meter, mit höchstens 40 Km/h fahren
   
