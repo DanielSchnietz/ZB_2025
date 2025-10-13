@@ -31,4 +31,5 @@
 
 # Verständigung nicht möglich 
 - Wenn der Tf nach dem Anhalten den Fdl nicht erreichen kann gilt:
-  - PZB Zwangsbremsung auf freier Strecke 
+  - PZB Zwangsbremsung auf freier Strecke darf bei einem Fall nach 3 auf Sicht weitergefahren werden, bis der Fdl verständigt werden kann. **Höchstens bis zum nächsten Hauptsignal!**
+  - Lichtsignal mit weiß-gelb-weiß-gelb-weißem Mastschild bis zum nächsten Hauptsignal auf Sicht. Der Fdl muss so früh wie möglich, spätestens auf dem nächsten Bahnhof über die Weiterfahrt verständigt werden
