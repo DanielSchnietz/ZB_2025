@@ -1,4 +1,4 @@
-# Makrofon
+l# Makrofon
 - Max. 80 km/h
 - Vor Bahnübergängen, an denen zu pfeifen ist, muss der Tf anhalten und dann mit Schrittempo befahren
 
@@ -53,5 +53,13 @@
 - Vor der Überführung eines Fahrzeuges mit verdrehten Gelb- oder Rotmarkierungen muss eine vom EVU beauftragte Person die betroffenen Räder untersucht haben
 
 # Überführung mit verdrehten Reifen
-# Fahrt nach Störungrn fortsetzen
+# Fahrt nach Störungen fortsetzen
+
+# Ausfall der Fahrplananzeige
+- Fällt während der Zugfahrt die Fahrplananzeige im Führerraum aus, muss der Tf den Zug sofort anhalten
+- Für die Weiterfahrt gibt es folgende Rückfallebenen:
+  - IRE im Tablet
+  - Ersatzfahrplan ( Tablet oder Buch )
+  - Fahrplanmitteilung
+    - Kann die BZ nicht erreicht werden, darf der Tf nach d n Angaben im Buchfahrplan Spalte 40 Km/h bis zum nächsten Bahnhof weiterfahren. 
 
