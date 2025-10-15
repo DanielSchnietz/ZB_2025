@@ -53,7 +53,11 @@
 - Vor der Überführung eines Fahrzeuges mit verdrehten Gelb- oder Rotmarkierungen muss eine vom EVU beauftragte Person die betroffenen Räder untersucht haben
 
 # Überführung mit verdrehten Reifen
+- Ein Zug mit verdrehten Gelb- oder Rotmarkierungen darf erst fahren, wenn er durch eine vom EVU beauftragte Person auf Lauffähigkeit untersucht wurde
+- 
 # Fahrt nach Störungen fortsetzen
+- Ein Zug darf nach der Störungsbehebung nur weiterfahren, wenn der Fdl, dem er den Halt mitgeteilt hat, zugestimmt hat
+
 
 # Ausfall der Fahrplananzeige
 - Fällt während der Zugfahrt die Fahrplananzeige im Führerraum aus, muss der Tf den Zug sofort anhalten
