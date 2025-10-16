@@ -26,4 +26,8 @@
        - Sie muss dann sagen welches Signal bedient wurde, Zs1/7/8 zusätzlich bedient wurden.
        - Bei Gruppenausfahrsignalen muss sie ebenfalls feststellen, ob das zugehörige Sperrsignal Sh1 zeigt
     - **Stellt eine andere Person als derTf die Signalstellung fest, muss der Tf bis zum erkennen der Stellung des nächsten Hauptsignals, maximal 2000m mit höchstens 40 Km/h fahren!**
-    - **Kann der Tf die Stellung nicht festgestellen und es steht keine andere Person zur Verfügung, erteilt der Fdl __Befehl 2!__**
+    - **Kann der Tf die Stellung nicht festgestellen und es steht keine andere Person zur Verfügung, erteilt der Fdl Befehl 2!**
+
+# Besonderheiten
+- Auf Kennlicht darf in einem Bahnhof nur abgefahren werden, wenn das Signal im Streckenbuch genannt ist
+- Bei mehreren gewöhnlichen Halteplätzen zwischen zwei Hauptsignalen wird die Zustimmung erst am letzten benötigt
