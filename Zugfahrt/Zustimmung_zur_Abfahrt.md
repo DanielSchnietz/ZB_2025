@@ -20,4 +20,10 @@
  
   # Fahrzeug steht über Signal hinaus
   - Das Fzg. an der Spitze steht über das Signal hinaus, die Fahrt war noch nicht zugelassen und der Tf kann die Zustimmung nicht erkennen
-    -Fdl melden, dass Fahrzeug über Signal hinaus steht
+    - Fdl melden, dass Fahrzeug über Signal hinaus steht
+    - Der Tf muss sich von der Stellung des Signals überzeugen
+    - Der Tf darf, wenn erdas Signal nicht selbst sehen kann, eine Person nach Regeln des EVU beauftragen, die Signalstellung mitzuteilen
+       - Sie muss dann sagen welches Signal bedient wurde, Zs1/7/8 zusätzlich bedient wurden.
+       - Bei Gruppenausfahrsignalen muss sie ebenfalls feststellen, ob das zugehörige Sperrsignal Sh1 zeigt
+    - **Stellt eine andere Person als derTf die Signalstellung fest, muss der Tf bis zum erkennen der Stellung des nächsten Hauptsignals, maximal 2000m mit höchstens 40 Km/h fahren!**
+    - **Kann der Tf die Stellung nicht festgestellen und es steht keine andere Person zur Verfügung, erteilt der Fdl <u>Befehl 2!</u>**
