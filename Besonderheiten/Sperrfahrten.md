@@ -17,6 +17,8 @@
 - Kann der Fdl nicht verständigt werden, darf der Tf auf Sicht fahren, bis er den Fdl erreicht
   - In diesem Falle muss der Tf auch vor BÜ mit geschlossenen Schranken anhalten
   - Kann er den Schrankenwärter nicht erreichen muss er den [BÜ sichern](https://github.com/DanielSchnietz/ZB_2025/blob/main/Unregelm%C3%A4%C3%9Figkeiten/Bahn%C3%BCbergang.md#bahn%C3%BCbergang-sichern)
+- **Wurde zusätzlich ein Befehl 12 diktiert, gilt dieser ebenfalls für die Rückkehr, da der Streckenabschnitt derselbe ist!**
+- Nach der Rückkehr in den Bahnhof muss der Tf die Ankuft aller Fahrzeuge melden
 
 # Zusätzliche Unterlagen/Befehle
 - Soll z.B. ein liegengebliebener Zug hereingeholt werden, wird zusätzlich Befehl 12 zum Fahren auf Sicht gegeben. ( Grund Nummer 2, Fahrzeuge im Gleis )
