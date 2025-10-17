@@ -9,6 +9,7 @@
 - Es ist eine neue Bremsberechnung durchzuführen und der Bremszettel zu aktualisieren
 - Es ist zu prüfen, ob die Mindestbremshundertstel erreicht werden
 - Die Zugdaten sind anzupassen ( PZB )
+- Vorsicht: **Wurden Bremsstörungen beseitigt oder ausgeschaltete Bremsen wieder eingeschaltet, wird eine erneute [volle Bremsprobe]() fällig**
 
 # Ausfall Bremse letztes Fahrzeug
 - Hat das vorletzte Fahrzeug eine wirkende Druckluftbremse, darf der Zug bis zu einem Bahnhof weiterfahren, auf dem die Zugbildung geändert werden kann
