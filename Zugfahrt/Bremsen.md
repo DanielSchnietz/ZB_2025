@@ -7,3 +7,8 @@
 
 # Fahrt mit Mindestbremshundertstel
 - **Bei der Fahrt mit nur den notwendigen Mindestbremshundertsteln ist der Zug, wenn die Bremsung erst am Signal mit Begriff "Halt erwarten" eingeleitet wird, mit einer Schnellbremsung einzuleiten!**
+
+# Fälligkeit der Bremsproben
+- Volle Bremsprobe
+  - Einmal täglich, spätestens nach 24 Std
+  - Wenn an Triebfahrzeugen Störungen an der Bremse behoben wurden oder ausgeschaltete Bremsen wieder eingeschaltet wurden
