@@ -31,6 +31,10 @@
 - Notfahrt 30 Km/h
 - Kuppelfahrt 1 Km/h
 - Abschleppen
-  - mit Fahrgästen 30 Km/h
+- Mit Schaku 
+  - mit Fahrgästen 10 Km/h
   - ohne Fahrgäste 100 Km/h
+- Mit UIC Übergangskupplung
+  - mit Fahrgästen 10 Km/h
+  - ohne Fahrgäste 70 Km/h
 
