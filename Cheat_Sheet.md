@@ -1,9 +1,16 @@
 # Geschwindigkeiten
 ## Stromabnehmer
 - Schere
-  - vorn/hinten
-  - vorn/vorn oder hinten/hinten
+  - vorn/hinten 140 Km/h 
+  - vorn/vorn oder hinten/hinten 100 Km/h
   - hinten/vorne unzulässig
+- Einholm/Schere
+  - vorn/hinten 140 Km/h
+  - hinten/vorne unzulässig
+- Einholm
+  - vorn/hinten 140 Km/h (E-Bremse 160 Km/h)
+  - vorn/vorn oder hinten/hinten 140 Km/h
+  - hinten/vorne 110 Km/h
 ## Fahrzeugausrüstung
 - Mit MG und E-Bremse 160 Km/h
   - Ohne eines der Beiden 140 Km/h
@@ -25,6 +32,7 @@
 - Nachgeschobener Zug gekuppelt 80 Km/h
 - Nachgeschobener Zug nicht gekuppelt 60 Km/h
 - Zurückkehrendes Nachschiebe Tfz 50 Km/h (Sperrfahrt)
+- Ohne Streckenkunde 100 Km/h
 ## Baureihenspezifisch 429.1
 - Ausfall E-Bremse 140 Km/h
 - Ausfall MG-Bremse 140 Km/h
