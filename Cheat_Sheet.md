@@ -23,6 +23,7 @@
 - Verdrehte Gelbmarkierung zur Untersuchung im Bahnhof Schrittgeschwindigkeit **bei ausgeschalteter Bremse!**
 - Heißläufer zur Untersuchung im Bahnhof 20 Km/h
 - Bedienung vom hinteren Führerraum aus 50 Km/h
+- Fahrt mit defektem (dieser ist dabei abgesperrt) Stromabnehmer 100 Km/h
 ## Allgemein
 - Ansage freier Fahrweg (Rangieren) 40 Km/h
 - Geschobener Zug 30 Km/h
