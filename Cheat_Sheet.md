@@ -84,6 +84,10 @@
     - BZ nicht erreichbar:
       - Anzeige der vorhandenen Bremshundertstel: -1 Km/h gegenüber Fahrplan und signalisierten Geschwindigkeiten
       - Keine Anzeige der Bremshundertstel: -10 Km/h gegenüber Fahrplan und signalisierten Geschwindigkeiten
+- Fehlende La Angaben
+  - Auf Smartphone kann geprüft werden ab welchem Bahnhof Einträge vorhanden sind: Bis zu diesem Bahnhof
+  - Kann nicht geprüft werden oder Einträge ab nächstem Bahnhof: Maximal 40 Km/h bis zu einem geeigneten Bahnhof
+  - Geeigneter Bahnhof: Der Tf muss den Fdl unterrichten, dass er im nächsten geeigneten Bahnhof in ein nicht durchgehendes Hauptgleis mit ausreichender Bahnsteiglänge muss
 
   
 
