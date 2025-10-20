@@ -70,6 +70,8 @@
 - Fdl nicht erreichbar:
   - PZB Zwangsbremsung w-g-w-g-w Mastschild
     - Auf Sicht bis zum nächsten Hauptsignal. Spätestens auf dem nächsten Bahnhof Fdl über Weiterfahrt verständigen
+  - PZB Zwangsbremsung auf freier Strecke
+    - Auf Sicht, maximal bis zum nächsten Hauptsignal
   - Rückfahrt Sperrfahrt
     - So früh wie möglich. Vor BÜ mit geschlossenen Schranken ist zu halten
   - Halt aus unvorhergesehenem Anlass
