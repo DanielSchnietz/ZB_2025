@@ -24,6 +24,7 @@
 - Heißläufer zur Untersuchung im Bahnhof 20 Km/h
 - Bedienung vom hinteren Führerraum aus 50 Km/h (Vorderer PZB Magnet ist in diesem Fall nicht aktiv => PZB als gestört zu betrachten)
 - Fahrt mit defektem (dieser ist dabei abgesperrt) Stromabnehmer 100 Km/h
+- Druckluftförderung ausgesetzt: Nächster Bahnhof. Spätestens wenn HBL Druck unter 6 Bar bei Anrechnung Mg Bremsen. 5 Bar in allen übrigen Fällen
 ## Allgemein
 - Ansage freier Fahrweg (Rangieren) 40 Km/h
 - Geschobener Zug 30 Km/h
