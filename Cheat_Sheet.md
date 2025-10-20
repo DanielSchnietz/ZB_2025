@@ -33,7 +33,9 @@
 - Nachgeschobener Zug gekuppelt 80 Km/h
 - Nachgeschobener Zug nicht gekuppelt 60 Km/h
 - Zurückkehrendes Nachschiebe Tfz 50 Km/h (Sperrfahrt)
-- Ohne Streckenkunde 100 Km/h
+- Ohne Streckenkunde
+  - Hauptbahnen 100 Km/h
+  - Nebenbahnen 40 Km/h
 ## Baureihenspezifisch 429.1
 - Ausfall E-Bremse 140 Km/h
 - Ausfall MG-Bremse 140 Km/h
