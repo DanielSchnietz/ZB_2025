@@ -22,7 +22,7 @@
 - Unterbrochene HL 20 Km/h
 - Verdrehte Gelbmarkierung zur Untersuchung im Bahnhof Schrittgeschwindigkeit **bei ausgeschalteter Bremse!**
 - Heißläufer zur Untersuchung im Bahnhof 20 Km/h
-- Bedienung vom hinteren Führerraum aus 50 Km/h
+- Bedienung vom hinteren Führerraum aus 50 Km/h (Vorderer PZB Magnet ist in diesem Fall nicht aktiv => PZB als gestört zu betrachten)
 - Fahrt mit defektem (dieser ist dabei abgesperrt) Stromabnehmer 100 Km/h
 ## Allgemein
 - Ansage freier Fahrweg (Rangieren) 40 Km/h
@@ -46,4 +46,29 @@
 - Mit UIC Übergangskupplung
   - mit Fahrgästen 10 Km/h
   - ohne Fahrgäste 70 Km/h
+ 
+# Weiterfahrt nach Störungen/Unregelmäßigkeiten 
+- Funkausfall: Nächster Bahnhof
+  - nach Meldung an Fdl und Klärung BZ + TP Weiterfahrt bis zur genannten Stelle
+- Heißläufer zur Untersuchung im Bahnhof: Schritttempo
+  - Fzg, die den sicheren Betrieb gefährden müssen ausgesetzt werden => keine Weiterfahrt
+- Verdrehte Gelbmarkierung Zur Untersuchung im nächsten Bahnhof: Schritttempo
+  - Fzg, die den sicheren Betrieb gefährden müssen ausgesetzt werden => keine Weiterfahrt
+- Federspeicherbremse Notgelöst am ep-compact (429.1): Umgehend Werkstatt zuführen
+- Spitzensignal:
+  - erloschen
+    - Dunkel **und** Auftrag: Sofort
+    - Alle anderen Fälle: Nächster Bahnhof
+  - erloschen
+    - Dunkel **und** Auftrag: Nächster Bahnhof
+    - Alle anderen Fälle: Nächster Haltbahnhof
+  - Kann nicht instandgesetzt werden:
+    - Dunkel **und** Auftrag: **Keine** Weiterfahrt
+    - Alle anderen Fälle: Bis zu einem Bahnhof, auf dem es repariert werden kann
+- Schlusssignal unvollständig: Bis zum Endbahnhof
+- Diagnoserechner (429.1): Tagesleistung zuende
+- Fdl nicht erreichbar:
+  - PZB Zwangsbremsung w-g-w-g-w Mastschild
+  - Rückfahrt Sperrfahrt
+  - 
 
