@@ -57,18 +57,20 @@
 - Federspeicherbremse Notgelöst am ep-compact (429.1): Umgehend Werkstatt zuführen
 - Spitzensignal:
   - erloschen
-    - Dunkel **und** Auftrag: Sofort
+    - Dunkel oder unsichtig **und** Auftrag: Sofort
     - Alle anderen Fälle: Nächster Bahnhof
   - erloschen
-    - Dunkel **und** Auftrag: Nächster Bahnhof
+    - Dunkel oder unsichtig **und** Auftrag: Nächster Bahnhof
     - Alle anderen Fälle: Nächster Haltbahnhof
   - Kann nicht instandgesetzt werden:
-    - Dunkel **und** Auftrag: **Keine** Weiterfahrt
+    - Dunkel oder unsichtig **und** Auftrag: **Keine** Weiterfahrt
     - Alle anderen Fälle: Bis zu einem Bahnhof, auf dem es repariert werden kann
 - Schlusssignal unvollständig: Bis zum Endbahnhof
 - Diagnoserechner (429.1): Tagesleistung zuende
 - Fdl nicht erreichbar:
   - PZB Zwangsbremsung w-g-w-g-w Mastschild
+    - Auf Sicht bis zum nächsten Hauptsignal. Spätestens auf dem nächsten Bahnhof Fdl über Weiterfahrt verständigen
   - Rückfahrt Sperrfahrt
+    - So früh wie möglich. Vor BÜ mit geschlossenen Schranken ist zu halten
   - 
 
