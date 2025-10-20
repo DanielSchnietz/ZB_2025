@@ -24,7 +24,7 @@
 - Heißläufer zur Untersuchung im Bahnhof 20 Km/h
 - Bedienung vom hinteren Führerraum aus 50 Km/h (Vorderer PZB Magnet ist in diesem Fall nicht aktiv => PZB als gestört zu betrachten)
 - Fahrt mit defektem (dieser ist dabei abgesperrt) Stromabnehmer 100 Km/h
-- Druckluftförderung ausgesetzt: Nächster Bahnhof. Spätestens wenn HBL Druck unter 6 Bar bei Anrechnung Mg Bremsen. 5 Bar in allen übrigen Fällen
+
 ## Allgemein
 - Ansage freier Fahrweg (Rangieren) 40 Km/h
 - Geschobener Zug 30 Km/h
@@ -55,9 +55,11 @@
   - nach Meldung an Fdl und Klärung BZ + TP Weiterfahrt bis zur genannten Stelle
 - Heißläufer zur Untersuchung im Bahnhof: Schritttempo
   - Fzg, die den sicheren Betrieb gefährden müssen ausgesetzt werden => keine Weiterfahrt
-- Verdrehte Gelbmarkierung Zur Untersuchung im nächsten Bahnhof: Schritttempo
+- Verdrehte Gelbmarkierung Zur Untersuchung im nächsten Bahnhof: Schritttempo, im Zugverband, bei ausgeschalteter Bremse
   - Fzg, die den sicheren Betrieb gefährden müssen ausgesetzt werden => keine Weiterfahrt
+- Feste Bremse: Schritttempo, im Zugverband, bei ausgeschalteter Bremse bis in den nächsten Bahnhof
 - Federspeicherbremse Notgelöst am ep-compact (429.1): Umgehend Werkstatt zuführen
+- Druckluftförderung ausgesetzt: Nächster Bahnhof. Spätestens wenn HBL Druck unter 6 Bar bei Anrechnung Mg Bremsen. 5 Bar in allen übrigen Fällen
 - Spitzensignal:
   - erloschen
     - Dunkel oder unsichtig **und** Auftrag: Sofort
