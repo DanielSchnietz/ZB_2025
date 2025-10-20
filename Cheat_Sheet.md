@@ -72,5 +72,7 @@
     - Auf Sicht bis zum nächsten Hauptsignal. Spätestens auf dem nächsten Bahnhof Fdl über Weiterfahrt verständigen
   - Rückfahrt Sperrfahrt
     - So früh wie möglich. Vor BÜ mit geschlossenen Schranken ist zu halten
-  - 
+  - Halt aus unvorhergesehenem Anlass
+    - Kann der Tf dem Fdl über den Aufenthalt nicht unterrichten, muss er dies bei der Weiterfahrt nachholen. Bis dahin muss der Tf auf Sicht fahren
+  
 
