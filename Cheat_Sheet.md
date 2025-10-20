@@ -42,12 +42,12 @@
 - Notfahrt 30 Km/h
 - Kuppelfahrt 1 Km/h
 - Abschleppen
-- Mit Schaku 
-  - mit Fahrgästen 10 Km/h
-  - ohne Fahrgäste 100 Km/h
-- Mit UIC Übergangskupplung
-  - mit Fahrgästen 10 Km/h
-  - ohne Fahrgäste 70 Km/h
+	- Mit Schaku 
+  	- mit Fahrgästen 10 Km/h
+  	- ohne Fahrgäste 100 Km/h
+	- Mit UIC Übergangskupplung
+ 		- mit Fahrgästen 10 Km/h
+  	- ohne Fahrgäste 70 Km/h
  
 # Weiterfahrt nach Störungen/Unregelmäßigkeiten 
 - Funkausfall: Nächster Bahnhof
@@ -78,5 +78,12 @@
     - So früh wie möglich. Vor BÜ mit geschlossenen Schranken ist zu halten
   - Halt aus unvorhergesehenem Anlass
     - Kann der Tf dem Fdl über den Aufenthalt nicht unterrichten, muss er dies bei der Weiterfahrt nachholen. Bis dahin muss der Tf auf Sicht fahren
+- Mindestbremshundertstel nicht erreicht
+  - Vor Fahrtantritt: BZ melden. Ggf. Fahrplanmitteilung
+  - Während der Fahrt nach z.B. Störung: BZ melden, ggf. Fahrplanmitteilung
+    - BZ nicht erreichbar:
+      - Anzeige der vorhandenen Bremshundertstel: -1 Km/h gegenüber Fahrplan und signalisierten Geschwindigkeiten
+      - Keine Anzeige der Bremshundertstel: -10 Km/h gegenüber Fahrplan und signalisierten Geschwindigkeiten
+
   
 
