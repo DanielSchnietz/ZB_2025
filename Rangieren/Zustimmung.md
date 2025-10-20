@@ -18,7 +18,15 @@
 - Steuerwagen
 
 # Fahrwegbeobachtung
+- Weichen, falls ein Fahrweg vereinbart ist und Weichensignale vorhanden sind
 # Geschwindigkeit
+- So schnell, dass man:
+  - Vor Halt zeigenden Signalen
+  - Anderen Fahrzeugen
+  - An der beabsichtigten Stelle
+  - Vor Hindernissen
+  - Rechtzeitig zum Halten kommt
+- Maximal 25 Km/h
 
 
 
