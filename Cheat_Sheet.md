@@ -57,8 +57,12 @@
   - Fzg, die den sicheren Betrieb gefährden müssen ausgesetzt werden => keine Weiterfahrt
 - Verdrehte Gelbmarkierung Zur Untersuchung im nächsten Bahnhof: Schritttempo, im Zugverband, bei ausgeschalteter Bremse
   - Fzg, die den sicheren Betrieb gefährden müssen ausgesetzt werden => keine Weiterfahrt
-- Feste Bremse: Schritttempo, im Zugverband, bei ausgeschalteter Bremse bis in den nächsten Bahnhof
+- Feste Bremse und thermische Überbelastung festgestellt: Schritttempo, im Zugverband, bei ausgeschalteter Bremse bis in den nächsten Bahnhof
 - Federspeicherbremse Notgelöst am ep-compact (429.1): Umgehend Werkstatt zuführen
+- Geschwindigkeitsanzeige ausgefallen:
+  - Alternative Anzeige vorhanden: Weiterfahrt möglich
+  - Keine alternative Anzeige: Hilfs Tfz anfordern. Keine Weiterfahrt
+  - **Ausnahme**: Bz nennt Stelle, bis zu der weitergefahren werden kann. Die Geschwindigkeit ist so langsam zu wählen, dass zulässige Geschwindigkeiten in jedem Fall unterfahren werden
 - Druckluftförderung ausgesetzt: Nächster Bahnhof. Spätestens wenn HBL Druck unter 6 Bar bei Anrechnung Mg Bremsen. 5 Bar in allen übrigen Fällen
 - Spitzensignal:
   - erloschen
