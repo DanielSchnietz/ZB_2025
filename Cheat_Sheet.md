@@ -20,7 +20,7 @@
 - Sifa 50 Km/h (Fahrplan mit Triebfahrzeugbegleiter)
 - PZB 50 Km/h
 - Unterbrochene HL 20 Km/h
-- Feste Bremse Untersuchung im Bahnhof nur im Zugverband, Schritttempo bei ausgeschalteter Bremse
+- Feste Bremse Untersuchung im Bahnhof nur im Zugverband, Schritttempo bei ausgeschalteter Bremse, wenn Hitzeauswirkungen zu erkennen sind
 - Verdrehte Gelbmarkierung zur Untersuchung im Bahnhof im Zugverband Schrittgeschwindigkeit **bei ausgeschalteter Bremse!**
 - Heißläufer zur Untersuchung im Bahnhof Schritttempo
 - Bedienung vom hinteren Führerraum aus 50 Km/h (Vorderer PZB Magnet ist in diesem Fall nicht aktiv => PZB als gestört zu betrachten)
