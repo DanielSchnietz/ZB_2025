@@ -96,6 +96,11 @@
   - Auf Smartphone kann geprüft werden ab welchem Bahnhof Einträge vorhanden sind: Bis zu diesem Bahnhof
   - Kann nicht geprüft werden oder Einträge ab nächstem Bahnhof: Maximal 40 Km/h bis zu einem geeigneten Bahnhof
   - Geeigneter Bahnhof: Der Tf muss den Fdl unterrichten, dass er im nächsten geeigneten Bahnhof in ein nicht durchgehendes Hauptgleis mit ausreichender Bahnsteiglänge muss
+- Angaben können nicht zur Verfügung gestellt werden
+  - Mit EVU abstimmen auf welchem Bahnhof Unterlagen oder Ersatztablet gestellt werden können
+  - La Einträge vom Handy in La Mitteilung übertragen
+  - Auftraggebende Stelle teilt Einträge mit, wenn sie nicht selbst übertragen werden können
+  - Tf teilt mit bis zu welchem Bahnhof er Einträge benötigt
 - Fehlende Fahrplanangaben
   - vor der Zugfahrt
     - Fahrplanauszug aus EBuLa
