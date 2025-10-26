@@ -96,6 +96,20 @@
   - Auf Smartphone kann geprüft werden ab welchem Bahnhof Einträge vorhanden sind: Bis zu diesem Bahnhof
   - Kann nicht geprüft werden oder Einträge ab nächstem Bahnhof: Maximal 40 Km/h bis zu einem geeigneten Bahnhof
   - Geeigneter Bahnhof: Der Tf muss den Fdl unterrichten, dass er im nächsten geeigneten Bahnhof in ein nicht durchgehendes Hauptgleis mit ausreichender Bahnsteiglänge muss
-
+- Fehlende Fahrplanangaben
+  - vor der Zugfahrt
+    - Fahrplanauszug aus EBuLa
+    - IRE nutzen
+  - während der Zugfahrt
+    - EVU und BZ informieren
+    - IRE nutzen
+    - wenn IRE nicht nutzbar und auch sonst nicht in elektronischer Form bereitzustellen dann:
+      - Nach Ersatzfahrplan für die zu befahrende Strecke nach der Spalte mit der höchsten zulässigen Geschwindigkeit wenn
+      - gedruckter Fahrplan nicht zeitgerecht verfügbar
+      - Tf ist Streckenkundig und kennt den Laufweg des Zuges
+      - Im Zug vorhandene Brh sind höher als die Mbr
+      - Vmax des Zuges darf nicht überschritten werden
+      - trifft einer dieser Punkte nicht zu darf der Tf mit Fahrplanmitteilung weiterfahren oder ohne Mitteilung, dann nach Spalte 40 Km/h
+      - Kann Bz nicht erreicht werden nach Spalte 40 Km/h bis zu einem Bahnhof auf dem er die BZ erreicht
   
 
